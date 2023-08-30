@@ -1,12 +1,13 @@
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-color: #4412ed;
-  background-image: url("/media/background.png");
+  background-image: url("media/background.png");
 }
 body {
-  background-image: url("/media/background.png");
+  background-image: url("media/background.png");
 }
 nav {
   display: flex;
@@ -28,7 +29,7 @@ ul li {
 ul li a{
   text-decoration: none; 
   cursor: pointer;
-  color: rgb(255, 255, 255);
+  color: gold;
   font-family: 'Ysabeau Infant', sans-serif;
 }
 ul li a:hover {
@@ -48,4 +49,10 @@ hr {
   margin-left: auto;
   margin-right: auto;
   background-color: gold;
+}
+
+h1 {
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+  color: gold;
 }
