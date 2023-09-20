@@ -16,6 +16,8 @@ nav {
   justify-content: space-between;
   overflow: auto;
   position: fixed;
+  top: 0;
+  width: 100%;
 }
 ul li {
   position: relative;
