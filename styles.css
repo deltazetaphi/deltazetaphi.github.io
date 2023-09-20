@@ -2,13 +2,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #4412ed;
   background-image: url("media/background.png");
 }
 body {
   background-image: url("media/background.png");
+  background-color: #4412ed;
 }
 nav {
+  background-color: #4412ed;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
