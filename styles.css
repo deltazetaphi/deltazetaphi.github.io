@@ -66,6 +66,6 @@ h4 {
   font-family: 'Mea Culpa', cursive !important;
   font-size: 70px !important;
 }
-.w3-container {
-background-color: rgba(255, 255, 255, 0.7);
+.w3-card {
+background-color: rgba(255, 255, 255, 0.3);
 }
