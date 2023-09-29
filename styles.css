@@ -59,9 +59,9 @@ h1 {
   text-align: center !important;
   color: gold !important;
 }
-p {
+p.boldTitles {
   font-family: 'Alfa Slab One', cursive !important;
 }
-h4 {
+h4.cursiveNames {
   font-family: 'Mea Culpa', cursive !important;
 }
