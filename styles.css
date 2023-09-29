@@ -64,5 +64,5 @@ p {
 }
 b {
   font-family: 'Mea Culpa', cursive !important;
-  font-size: 70px;
+  font-size: 70px !important;
 }
