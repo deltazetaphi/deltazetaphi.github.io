@@ -34,6 +34,7 @@ ul li a{
   cursor: pointer;
   color: gold !important;
   font-family: 'Ysabeau Infant', sans-serif;
+  font-size: xx-large;
 }
 ul li a:hover {
   width: 40px;
