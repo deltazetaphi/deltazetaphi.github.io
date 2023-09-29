@@ -6,6 +6,7 @@
 body {
   background-image: url("media/background.png");
   background-color: #4412ed;
+  background-position: 20px, 10px;
 }
 nav {
   background-color: #4412ed;
